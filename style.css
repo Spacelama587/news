@@ -321,3 +321,7 @@ img {
 :focus {
   outline: 0;
 }
+
+.celebrity-spotlight {
+  margin-top: 15px;
+}
